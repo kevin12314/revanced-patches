@@ -1020,8 +1020,8 @@ Captions"</string>
 	<string name="revanced_hide_shorts_player_comments_button_summary_off">留言按鈕已顯示。</string>
 	<string name="revanced_hide_shorts_player_comments_button_summary_on">留言按鈕已隱藏。</string>
 	<string name="revanced_hide_shorts_player_comments_button_title">隱藏留言按鈕</string>
-	<string name="revanced_hide_shorts_player_info_panel_summary_off">資訊欄已顯示。\n\n這也將隱藏音訊詮釋資料標籤和影片鏈接標籤。</string>
-	<string name="revanced_hide_shorts_player_info_panel_summary_on">資訊欄已隱藏。\n\n這也將隱藏音訊詮釋資料標籤和影片鏈接標籤。</string>
+	<string name="revanced_hide_shorts_player_info_panel_summary_off">資訊欄已顯示。</string>
+	<string name="revanced_hide_shorts_player_info_panel_summary_on">資訊欄已隱藏。</string>
 	<string name="revanced_hide_shorts_player_info_panel_title">隱藏資訊欄</string>
 	<string name="revanced_hide_shorts_player_navigation_bar_summary_off">導航列已顯示。</string>
 	<string name="revanced_hide_shorts_player_navigation_bar_summary_on">導航列已隱藏。</string>
